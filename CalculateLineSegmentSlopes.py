@@ -5,6 +5,7 @@
 
 import arcpy
 import math
+import os
 
 # Environment Settings
 arcpy.env.workspace = r"R:\138067_BoulderCounty_Trans_Flood\TO2 - 138368\05_Design\Habitat Restoration\839_GoldRun\GIS"
